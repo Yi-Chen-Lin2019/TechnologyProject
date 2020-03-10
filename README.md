@@ -1,2 +1,2 @@
 # TechnologyProject
-This project is wirtten in Java to exercise with the concept of cocurrency in operating system
+This project is written in Java to exercise with the concept of cocurrency in operating system
